@@ -1,2 +1,2 @@
 # hsrp-website
-HalmstadenRP's hemsida
+HalmstadenRP's website
